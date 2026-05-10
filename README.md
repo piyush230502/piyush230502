@@ -25,7 +25,7 @@ Building autonomous AI systems, production-grade RAG pipelines, and intelligent 
 
 # 💫 About Me
 
-🔹 Agentic AI Developer passionate about building intelligent systems that automate reasoning, retrieval, and decision-making.
+🔹 Agentic AI Developer Intern with expertise in Machine Learning, Agentic AI, and LLM-powered applications, building scalable intelligent systems that combine predictive modeling, reasoning, retrieval, and automation.
 
 🔹 Experienced in:
 - Multi-Agent Systems
