@@ -9,6 +9,13 @@ Building autonomous AI systems, production-grade RAG pipelines, and intelligent 
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQFhbGfQlTwJQA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684380897420?e=2147483647&v=beta&t=I4lAsx34IinhnlidHiisPJy4P7TYl65j1pes6IvzJ8M"
+/>
+</p>
+---
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyush230502&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -18,7 +25,7 @@ Building autonomous AI systems, production-grade RAG pipelines, and intelligent 
 
 # 💫 About Me
 
-🔹 Agentic AI Developer Intern passionate about building intelligent systems that automate reasoning, retrieval, and decision-making.
+🔹 Agentic AI Developer passionate about building intelligent systems that automate reasoning, retrieval, and decision-making.
 
 🔹 Experienced in:
 - Multi-Agent Systems
@@ -29,10 +36,10 @@ Building autonomous AI systems, production-grade RAG pipelines, and intelligent 
 - Predictive Machine Learning
 
 🔹 Currently working on:
-- AI-powered Meeting Note Taker
+- AI-powered Thumbnail Maker
 - Autonomous Shopping Agents
 - MCP-based AI Tooling
-- Advanced Phishing Detection Systems
+- Pneumonia Classification 
 
 🔹 I enjoy transforming raw data into intelligent AI systems capable of solving real-world business problems.
 
