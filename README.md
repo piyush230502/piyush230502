@@ -2,8 +2,8 @@
 
 <p align="center">
   <img 
-    src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..." 
-    alt="Piyush Chaubey AI Engineering Dashboard"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANk2S7v6O0-y9AAEstXKJjDT6vwWgV9071t9OpDXiQ1LY-wgucDPAqQY&s"
+    alt="Piyush Chaubey Banner"
     width="100%"
     style="border-radius:12px;border:1px solid #30363d;"
   />
