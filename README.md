@@ -70,7 +70,7 @@ My primary interests include:
 * GitHub Actions
 * CI/CD
 * MongoDB
-* PostgreSQL
+* MySQL
 
 ---
 
@@ -88,7 +88,7 @@ My primary interests include:
 * React.js
 * Next.js
 * JavaScript
-* TypeScript
+* Html
 * TailwindCSS
 
 ---
