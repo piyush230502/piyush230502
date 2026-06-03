@@ -1,6 +1,16 @@
 # Hi, I'm Piyush Chaubey 🚀
 
 <p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Piyush Chaubey System Architecture Dashboard" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+  </a>
+</p>
+<p align="center">
+  <em>📊 <b>Interactive Developer Blueprint:</b> Click the image above to view my live production deployments, system architecture graphs, and end-to-end MLOps pipeline dashboards.</em>
+</p>
+<br/>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/272781760-3ddf3e49-9b80-4150-a04c-9e64284e45c9.gif" alt="AI Developer Banner" width="100%" />
 </p>
 
@@ -17,7 +27,7 @@ I am a Full Stack AI Engineer specializing in **Agentic workflows, Retrieval-Aug
 | **ML, Fine-Tuning & CV**  | PyTorch, TensorFlow, Hugging Face (PEFT, LoRA/QLoRA), Scikit-Learn, YOLOv11, OpenCV |
 | **Backend, Data & Ops**   | Python, FastAPI, Asynchronous Programming, RESTful APIs, Docker, CI/CD, GitHub Actions, AWS |
 | **Vector Search & Storage**| Qdrant, Chroma, MongoDB, Advanced RAG (FLARE, CRAG), Semantic Retrieval |
-| **Frontend & UI**         | React.js, Next.js, TypeScript, TailwindCSS, Streamlit |
+| **Frontend & UI**         | React.js, Next.js, javaScript, TailwindCSS |
 
 ---
 
