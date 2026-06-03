@@ -1,5 +1,9 @@
 # Hi, I'm Piyush 🚀
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/272781760-3ddf3e49-9b80-4150-a04c-9e64284e45c9.gif" alt="AI Developer Banner" width="100%" />
+</p>
+
 ### Agentic AI Engineer & Full-Stack Developer
 I engineer production-grade autonomous systems, custom Model Context Protocol (MCP) servers, and scalable full-stack applications using Python and JavaScript ecosystems.
 
@@ -33,4 +37,5 @@ Production-ready Model Context Protocol (MCP) servers allowing LLMs to seamlessl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush230502&layout=compact&theme=dark&hide_border=true)
 
 ---
+
 🤝 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
