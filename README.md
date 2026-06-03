@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANk2S7v6O0-y9AAEstXKJjDT6vwWgV9071t9OpDXiQ1LY-wgucDPAqQY&s"
+    src="https://github.com/piyush230502/piyush230502/blob/main/ChatGPT%20Image%20Jun%203%2C%202026%2C%2001_42_41%20PM.png"
     alt="Piyush Chaubey Banner"
     width="100%"
     style="border-radius:12px;border:1px solid #30363d;"
